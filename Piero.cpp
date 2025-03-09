@@ -2,5 +2,5 @@
 using namespace std;
 class Piero(){
 	
-	
+	//Esta clase es de Piero Garcia
 };
